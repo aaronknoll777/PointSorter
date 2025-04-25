@@ -1,3 +1,4 @@
+#Point Sorter
 Sorts Points from a file or randomly and calculates the runtime
 of each. 
 
